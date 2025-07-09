@@ -2,7 +2,6 @@
 
 A real-time one-on-one chat application built using **Spring Boot**, **WebSocket (STOMP protocol)**, **MySQL**, and **Vanilla JavaScript**. It enables private messaging between two users with message persistence and instant delivery.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ A real-time one-on-one chat application built using **Spring Boot**, **WebSocket
 - 🗂️ Chat Message History (stored in MySQL)
 - 🖥️ Minimal UI using HTML, CSS, and JavaScript
 
----
 
 ## 🛠️ Tech Stack
 
